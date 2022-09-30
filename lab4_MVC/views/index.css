@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+
+.container {
+    display: block;
+    justify-content: center;
+}
+
+p {
+    justify-content: center;
+    /* align-self: center; */
+    color: red;
+    font-size: 50px;
+    background-color: gray;
+}
+
+.list-group {
+    display: flex;
+    flex-wrap: nowrap;
+}
